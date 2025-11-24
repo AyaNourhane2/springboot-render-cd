@@ -12,4 +12,4 @@ ENV SERVER_PORT=8080
 ENV SERVER_ADDRESS=0.0.0.0
 
 EXPOSE 8080
-CMD ["java", "-jar", "app.jar", "--server.port=8080", "--server.address=0.0.0.0"]
+
